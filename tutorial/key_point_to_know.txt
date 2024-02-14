@@ -1,0 +1,8 @@
+'''
+pygments = are used to code highlight
+
+json.dump = are used to convert complex/python data to json data
+json.load = are used to convert json data to complex/python data
+
+
+'''
